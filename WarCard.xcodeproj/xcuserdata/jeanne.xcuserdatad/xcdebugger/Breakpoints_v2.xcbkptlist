@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9029387C-FA0C-4E32-B789-69AB71C17618"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21951D66-687A-4DD3-81DC-1F80C67B12C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/AnimatorFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "rotateRepeat(view:times:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21951D66-687A-4DD3-81DC-1F80C67B12C1 - 3ff83e5332f96412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WarCard.AnimatorFactory.rotateRepeat(view: __C.UIView, times: Swift.Int) -&gt; __C.UIViewPropertyAnimator"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/AnimatorFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "21951D66-687A-4DD3-81DC-1F80C67B12C1 - 3ff83e5332f96412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WarCard.AnimatorFactory.rotateRepeat(view: __C.UIView, times: Swift.Int) -&gt; __C.UIViewPropertyAnimator"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/AnimatorFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "21951D66-687A-4DD3-81DC-1F80C67B12C1 - 3ff83e5332f96433"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WarCard.AnimatorFactory.rotateRepeat(view: __C.UIView, times: Swift.Int) -&gt; __C.UIViewPropertyAnimator"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/AnimatorFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68F7EE30-B801-438A-BE60-95445758399D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "TapBPlayer(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCF04FCC-88DF-4EBA-B4AA-559C605A9060"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/AnimatorFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "moveOnce(fromCard:fromPos:fromImage:toCard:toCardAlpha:toImage:times:duration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E397F17-FC35-409A-8BC5-15D69E1B3CF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "TapBPlayer(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7E7C576-8A70-47AD-A726-A79ABBB76909"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/Controller/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
+            landmarkName = "TapBPlayer(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7E7C576-8A70-47AD-A726-A79ABBB76909 - 5798078f321e54fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.TapBPlayer(Any) -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "2008">
+               </Location>
+               <Location
+                  uuid = "F7E7C576-8A70-47AD-A726-A79ABBB76909 - 5798078f321e5534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.TapBPlayer(Any) -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "1380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DDAD8B9-1370-4620-9132-0D744323B472"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/Controller/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "TapBPlayer(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46A7BE0A-181E-4140-9E04-B996B7027679"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/Controller/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "392"
+            endingLineNumber = "392"
+            landmarkName = "APlayerWin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92813B57-F734-4CC9-95E2-F7DD2F64CCB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/Controller/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "417"
+            endingLineNumber = "417"
+            landmarkName = "BPlayerWin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "784BABE9-9399-43EA-9FEE-087405E53628"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/Controller/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "439"
+            endingLineNumber = "439"
+            landmarkName = "collectToAPlayer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "784BABE9-9399-43EA-9FEE-087405E53628 - e93cf1b2f81ee595"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.collectToAPlayer() -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "370"
+                  endingLineNumber = "370"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "784BABE9-9399-43EA-9FEE-087405E53628 - e93cf1b2f81ee595"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.collectToAPlayer() -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "370"
+                  endingLineNumber = "370"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3620D7E4-1115-4F28-B184-B6FE577961D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/Controller/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "461"
+            endingLineNumber = "461"
+            landmarkName = "collectToBPlayer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3620D7E4-1115-4F28-B184-B6FE577961D3 - 5648ad71dba1f83a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.collectToBPlayer() -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "388"
+                  endingLineNumber = "388"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "3620D7E4-1115-4F28-B184-B6FE577961D3 - 5648ad71dba1f83a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.collectToBPlayer() -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "388"
+                  endingLineNumber = "388"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "476EFFC3-8B96-4723-AFFA-52D76D5C75CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WarCard/Controller/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "TapBPlayer(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "476EFFC3-8B96-4723-AFFA-52D76D5C75CB - fe7388fb3db3a0f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.TapBPlayer(__C.UIView) -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "476EFFC3-8B96-4723-AFFA-52D76D5C75CB - 5798078f321e54b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WarCard.GameViewController.TapBPlayer(Any) -&gt; ()"
+                  moduleName = "WarCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeanne/Developer/WarCard/WarCard/Controller/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
