@@ -24,11 +24,11 @@ struct Card: Equatable {
 
 
 //花色
-enum SUIT {
-    case SPADES
-    case HEARTS
-    case DIAMONDS
-    case CLUBS
+enum SUIT:String {
+    case SPADES = "SPADES"
+    case HEARTS = "HEARTS"
+    case DIAMONDS = "DIAMONDS"
+    case CLUBS = "CLUBS"
 }
 
 

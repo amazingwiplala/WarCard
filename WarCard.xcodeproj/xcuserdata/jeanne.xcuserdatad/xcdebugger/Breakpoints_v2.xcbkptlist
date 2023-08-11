@@ -125,8 +125,8 @@
             filePath = "WarCard/Controller/GameViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "238"
-            endingLineNumber = "238"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
             landmarkName = "TapBPlayer(_:)"
             landmarkType = "7">
             <Locations>
@@ -173,8 +173,8 @@
             filePath = "WarCard/Controller/GameViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "250"
-            endingLineNumber = "250"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
             landmarkName = "TapBPlayer(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -189,8 +189,8 @@
             filePath = "WarCard/Controller/GameViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "392"
-            endingLineNumber = "392"
+            startingLineNumber = "394"
+            endingLineNumber = "394"
             landmarkName = "APlayerWin()"
             landmarkType = "7">
          </BreakpointContent>
@@ -205,8 +205,8 @@
             filePath = "WarCard/Controller/GameViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "417"
-            endingLineNumber = "417"
+            startingLineNumber = "419"
+            endingLineNumber = "419"
             landmarkName = "BPlayerWin()"
             landmarkType = "7">
          </BreakpointContent>
@@ -221,8 +221,8 @@
             filePath = "WarCard/Controller/GameViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "439"
-            endingLineNumber = "439"
+            startingLineNumber = "441"
+            endingLineNumber = "441"
             landmarkName = "collectToAPlayer()"
             landmarkType = "7">
             <Locations>
@@ -269,8 +269,8 @@
             filePath = "WarCard/Controller/GameViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "461"
-            endingLineNumber = "461"
+            startingLineNumber = "463"
+            endingLineNumber = "463"
             landmarkName = "collectToBPlayer()"
             landmarkType = "7">
             <Locations>
@@ -317,8 +317,8 @@
             filePath = "WarCard/Controller/GameViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "225"
-            endingLineNumber = "225"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
             landmarkName = "TapBPlayer(_:)"
             landmarkType = "7">
             <Locations>

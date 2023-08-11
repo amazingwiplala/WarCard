@@ -112,10 +112,10 @@ class GameViewController: UIViewController {
             default:
                 rank = String(format: "%02d", value)
             }
-            cards.append(Card(Suit: "SPADES", Rank: rank, Value: value))
-            cards.append(Card(Suit: "HEARTS", Rank: rank, Value: value))
-            cards.append(Card(Suit: "DIAMONDS", Rank: rank, Value: value))
-            cards.append(Card(Suit: "CLUBS", Rank: rank, Value: value))
+            cards.append(Card(Suit: SUIT.SPADES.rawValue, Rank: rank, Value: value))
+            cards.append(Card(Suit: SUIT.HEARTS.rawValue, Rank: rank, Value: value))
+            cards.append(Card(Suit: SUIT.DIAMONDS.rawValue, Rank: rank, Value: value))
+            cards.append(Card(Suit: SUIT.CLUBS.rawValue, Rank: rank, Value: value))
             value += 1
         }
         
@@ -124,6 +124,8 @@ class GameViewController: UIViewController {
     
     //發牌準備
     func initDealing(){
+        
+        TableImageView.image = DefaultBackground
         
         waitForDealing = 1
         DealerButton.alpha = 1
