@@ -8,11 +8,15 @@
 import Foundation
 
 
-struct Card: Equatable {
+struct Card: Comparable {
+    
     var Suit: String = ""
     var Rank: String = ""
     var Value: Int = 0
 
+    static func < (A: Card, B: Card) -> Bool {
+        A.Value < B.Value
+    }
     static func == (A: Card, B: Card) -> Bool {
         return A.Value == B.Value
     }
